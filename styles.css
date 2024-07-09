@@ -51,3 +51,15 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+
+.description {
+  font-family: 'Press Start 2P', cursive;
+  max-width: 600px;
+  color: #FEF2BF;
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+  background: #012b57;
+  padding: 10px;
+  border-radius: 5px;
+}
